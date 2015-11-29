@@ -7,5 +7,9 @@ Poems in code
 - [7*7 Flower time (2015)](http://github.com/nicola/poem-flower-time) - N. Greco
 - I am collecting code poems, please contact me
 
+## Ideas
+
+See ideas for future poems [here](https://github.com/nicola/poems/issues)
+
 ## Articles
 - [Introducing Versioning Poems (2015)](http://nicola.io/versioning-poems/2015/)
